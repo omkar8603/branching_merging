@@ -11,6 +11,8 @@ int main(){
         case 1 : 
                 num1 + num2;
                 break;
+        case 3 : num2 * num2;
+                 break;
     }
     return 0;
 }
