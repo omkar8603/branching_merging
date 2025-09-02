@@ -19,6 +19,9 @@ int main(){
 
         case 4 : num2 / num1;
                   break;
+
+        case 5 : num2 % num1;
+                 break;
     }
     return 0;
 }
