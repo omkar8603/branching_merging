@@ -3,5 +3,14 @@ using namespace std;
 
 int main(){
     
+    cout << "Calculater ";
+    int num1, num2;
+    int choise;
+
+    switch (choise){
+        case 1 : 
+                num1 + num2;
+                break;
+    }
     return 0;
 }
