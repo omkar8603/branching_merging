@@ -13,6 +13,9 @@ int main(){
                 break;
         case 3 : num2 * num2;
                  break;
+
+
+        cout << "Hello i am omkar";
     }
     return 0;
 }
